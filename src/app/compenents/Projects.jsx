@@ -41,7 +41,7 @@ const ProjectCard = ({
 const Projects = () => {
   const projects = [
     {
-      imageSrc: "publicimagesg-ply.png",
+      imageSrc: "public/images/amazon.jpg",
       altText: "Google Play Logo",
       description:
         "Create a successful Android App. This project aims to answer critical questions to make informed decisions. SQL",
@@ -49,7 +49,7 @@ const Projects = () => {
       title: "Google Play App Development Analysis",
     },
     {
-      imageSrc: "publicimagesamazon.jpg",
+      imageSrc: "public/images/amazon.jpg",
       altText: "Amazon Logo",
       description:
         "The primary problem was to identify and understand customer behavior and segment customers effectively for more targeted marketing strategies. EXCEL",
@@ -57,7 +57,7 @@ const Projects = () => {
       title: "Amazon RFM Analysis",
     },
     {
-      imageSrc: "publicimagespexels-kristina-paukshtite-1146760.jpg",
+      imageSrc: "public/images/pexels-kristina-paukshtite-1146760.jpg",
       altText: "A plato pizza image",
       description:
         "Analyze a large dataset of pizza sales and extract meaningful insights to help the company make data-driven decisions. SQL",
@@ -65,7 +65,7 @@ const Projects = () => {
       title: "Maven's Pizza",
     },
     {
-      imageSrc: "publicimagesdrag.jpg",
+      imageSrc: "public/images/drag.jpg",
       altText: "La mas draga logo",
       description:
         "The problem in this project is creation of a model to predict the success of contestants in the show based on their performance and characteristics. PYTHON",
