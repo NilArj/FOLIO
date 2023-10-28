@@ -41,7 +41,7 @@ const ProjectCard = ({
 const Projects = () => {
   const projects = [
     {
-      imageSrc: "/images/g-ply.png",
+      imageSrc: "images/g-ply.png",
       altText: "Google Play Logo",
       description:
         "Create a successful Android App. This project aims to answer critical questions to make informed decisions. SQL",
