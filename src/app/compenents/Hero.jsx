@@ -15,7 +15,7 @@ const Hero = () => {
       id="home"
       className="relative flex items-center justify-center min-h-screen"
       style={{
-        background: `url("out/image/desk2.jpg")`,
+        background: `url("images/desk2.jpg")`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}

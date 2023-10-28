@@ -41,7 +41,7 @@ const ProjectCard = ({
 const Projects = () => {
   const projects = [
     {
-      imageSrc: "https://github.com/NilArj/folio/blob/2a92c1bf66893612518c6bfe363b1271b5ab83cd/public/images/g-ply.png",
+      imageSrc: "/images/g-ply.png",
       altText: "Google Play Logo",
       description:
         "Create a successful Android App. This project aims to answer critical questions to make informed decisions. SQL",
@@ -49,7 +49,7 @@ const Projects = () => {
       title: "Google Play App Development Analysis",
     },
     {
-      imageSrc: "https://github.com/NilArj/folio/blob/2a92c1bf66893612518c6bfe363b1271b5ab83cd/public/images/amazon.jpg",
+      imageSrc: "/images/amazon.jpg",
       altText: "Amazon Logo",
       description:
         "The primary problem was to identify and understand customer behavior and segment customers effectively for more targeted marketing strategies. EXCEL",
@@ -57,7 +57,7 @@ const Projects = () => {
       title: "Amazon RFM Analysis",
     },
     {
-      imageSrc: "https://github.com/NilArj/folio/blob/2a92c1bf66893612518c6bfe363b1271b5ab83cd/public/images/pexels-kristina-paukshtite-1146760.jpg",
+      imageSrc: "/images/pexels-kristina-paukshtite-1146760.jpg",
       altText: "A plato pizza image",
       description:
         "Analyze a large dataset of pizza sales and extract meaningful insights to help the company make data-driven decisions. SQL",
@@ -65,7 +65,7 @@ const Projects = () => {
       title: "Maven's Pizza",
     },
     {
-      imageSrc: "https://github.com/NilArj/folio/blob/2a92c1bf66893612518c6bfe363b1271b5ab83cd/public/images/drag.jpg",
+      imageSrc: "/images/drag.jpg",
       altText: "La mas draga logo",
       description:
         "The problem in this project is creation of a model to predict the success of contestants in the show based on their performance and characteristics. PYTHON",
