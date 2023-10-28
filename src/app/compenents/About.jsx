@@ -48,7 +48,7 @@ const About = () => {
                   Education
                 </h2>
                 <p className="text-[#F0F0F0] italic font-serif mb-4 text-base text-justify sm:text-xl sm:mb-0">
-                  {"'ve"} I been deeply engaged in the world of education,
+                  {"I've"} been deeply engaged in the world of education,
                   working closely with students, teachers, parents,
                   administrators, and team leaders. My focus has been on
                   simplifying reports and crafting captivating visuals to drive

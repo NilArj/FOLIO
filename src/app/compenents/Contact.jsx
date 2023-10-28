@@ -18,7 +18,6 @@ const Contact = () => {
           for a chat. If {"you've"} got questions or just want to discuss
           possibilities,
           {"don't"} hesitate to reach out. {"I'm"} committed to swift responses!
-          {'"'}
         </p>
 
         <div className="flex text-3xl md:text-5xl justify-evenly sm:gap-4 sm:justify-center">
