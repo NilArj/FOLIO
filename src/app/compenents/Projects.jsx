@@ -41,7 +41,7 @@ const ProjectCard = ({
 const Projects = () => {
   const projects = [
     {
-      imageSrc: "/images/g-ply.png",
+      imageSrc: `url("images/g-ply.png")`,
       altText: "Google Play Logo",
       description:
         "Create a successful Android App. This project aims to answer critical questions to make informed decisions. SQL",
@@ -49,7 +49,7 @@ const Projects = () => {
       title: "Google Play App Development Analysis",
     },
     {
-      imageSrc: "/images/amazon.jpg",
+      imageSrc: "images/amazon.jpg",
       altText: "Amazon Logo",
       description:
         "The primary problem was to identify and understand customer behavior and segment customers effectively for more targeted marketing strategies. EXCEL",
