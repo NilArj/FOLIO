@@ -21,7 +21,7 @@ const About = () => {
             className={`${
               selectedSection === "overview"
                 ? "text-[#FFCE63] "
-                : "text-[rgb(10,19,85)]"
+                : "text-[rgb(10,19,55)]"
             } `}
           />
           <AiOutlineLine
@@ -29,7 +29,7 @@ const About = () => {
             className={`${
               selectedSection === "education"
                 ? "text-[#FFCE63] "
-                : "text-[rgb(10,19,75)]"
+                : "text-[rgb(10,19,95)]"
             }`}
           />
         </div>
