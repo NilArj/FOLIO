@@ -21,15 +21,15 @@ const About = () => {
             className={`${
               selectedSection === "overview"
                 ? "text-[#FFCE63] "
-                : "text-[rgb(10,20,55)]"
+                : "text-[#060B24]"
             } `}
           />
           <AiOutlineLine
             onClick={() => handleSectionChange("education")}
             className={`${
               selectedSection === "education"
-                ? "text-[#FFCE63] "
-                : "text-[rgb(12,13,19)]"
+                ? "text-[#FFCE63]"
+                : "text-[#060B24]"
             }`}
           />
         </div>
