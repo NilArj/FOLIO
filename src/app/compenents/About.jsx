@@ -38,7 +38,7 @@ const About = () => {
           <div>
             <p className="text-[#F0F0F0] text-justify italic font-serif text-base sm:text-xl mb-4">
               Hi there! I have a diverse background in education,
-              administration, and data analysis. Here's a little about my
+              administration, and data analysis. {"Here's"} a little about my
               journey:
             </p>
 
@@ -48,10 +48,11 @@ const About = () => {
                   Education
                 </h2>
                 <p className="text-[#F0F0F0] italic font-serif mb-4 text-base text-justify sm:text-xl sm:mb-0">
-                  I've been deeply engaged in the world of education, working
-                  closely with students, teachers, parents, administrators, and
-                  team leaders. My focus has been on simplifying reports and
-                  crafting captivating visuals to drive educational success.
+                  {"'ve"} I been deeply engaged in the world of education,
+                  working closely with students, teachers, parents,
+                  administrators, and team leaders. My focus has been on
+                  simplifying reports and crafting captivating visuals to drive
+                  educational success.
                 </p>
               </div>
               <div className="md:px-6">
@@ -59,9 +60,9 @@ const About = () => {
                   Administration
                 </h2>
                 <p className="text-[#F0F0F0] italic font-serif mb-4 text-base text-justify sm:text-xl sm:mb-0">
-                  As a data wizard, I've gathered, visualized, and delivered
-                  insights that empower decisions. I'm tech-savvy and love
-                  automating data processes. I've also worked on community
+                  As a data wizard, {"I've"} gathered, visualized, and delivered
+                  insights that empower decisions. {"I'm"} tech-savvy and love
+                  automating data processes. {"I've"} also worked on community
                   promotion projects, focusing on improving information
                   management
                 </p>
@@ -73,8 +74,9 @@ const About = () => {
                 <p className="text-[#F0F0F0] italic font-serif text-base text-justify sm:text-xl sm:mb-0">
                   I can take complex ideas and make them easy to grasp. As a
                   Data Analyst, I want to turn raw data into actionable
-                  insights. I'm well-armed with Python, SQL, Tableau and Excel.
-                  I'm excited to tackle new challenges in the data field.
+                  insights. {"I'm"} well-armed with Python, SQL, Tableau and
+                  Excel.
+                  {"I'm"} excited to tackle new challenges in the data field.
                 </p>
               </div>
             </div>

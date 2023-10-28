@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-import Image from "next/image";
 import { TypeAnimation } from "react-type-animation";
 
 const Hero = () => {
@@ -26,7 +25,7 @@ const Hero = () => {
         <div className="flex-col flex-wrap justify-center place-self-center text-center">
           <h1 className="text-[#F0F0F0] mb-6 text-4xl font-extrabold sm:text-5xl md:text-6xl">
             <span className="text-transparent bg-clip-text bg-[#FFCE63]">
-              Hello, I'm{" "}
+              Hello, {"I'm"}
             </span>
             <br />
             <TypeAnimation

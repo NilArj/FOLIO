@@ -14,9 +14,11 @@ const Contact = () => {
           Contact
         </h1>
         <p className="text-[#F0F0F0] text-justify italic font-serif text-base sm:text-xl">
-          I'm on the lookout for exciting opportunities, and I'm here for a
-          chat. If you've got questions or just want to discuss possibilities,
-          don't hesitate to reach out. I'm committed to swift responses!"
+          {"I'm"} on the lookout for exciting opportunities, and {"I'm"} here
+          for a chat. If {"you've"} got questions or just want to discuss
+          possibilities,
+          {"don't"} hesitate to reach out. {"I'm"} committed to swift responses!
+          {'"'}
         </p>
 
         <div className="flex text-3xl md:text-5xl justify-evenly sm:gap-4 sm:justify-center">

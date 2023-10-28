@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import Navbar from "./compenents/Navbar";
 import Hero from "./compenents/Hero";
 import About from "./compenents/About";
@@ -24,5 +23,3 @@ export default function Home() {
     </main>
   );
 }
-
-// mt-24 mx-auto py-4 px-12
