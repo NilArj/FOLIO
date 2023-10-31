@@ -19,6 +19,10 @@ const Contact = () => {
           possibilities,
           {"don't"} hesitate to reach out. {"I'm"} committed to swift responses!
         </p>
+        <p className="text-white-primary text-justify italic font-serif text-base sm:text-xl md:text-center">
+          Thanks for taking the time to explore my portfolio. Your visit is
+          greatly appreciated!
+        </p>
 
         <div className="flex text-3xl md:text-5xl justify-evenly sm:gap-4 sm:justify-center">
           <a
