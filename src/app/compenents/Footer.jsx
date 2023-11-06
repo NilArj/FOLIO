@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="flex justify-between flex-wrap py-8 px-4 gap-4 bg-blue-secondary">
       <div className="flex gap-2 justify-center">
         <FiMapPin />
-        Merida, Mexico
+        Yucatan, Mexico
       </div>
       <p>© All rights reserved.</p>
     </div>
