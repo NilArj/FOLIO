@@ -81,6 +81,16 @@ const Projects = () => {
       title: "PYTHON",
       subtitle: "La Más Draga",
     },
+    {
+      imageSrc: "images/mx.jpg",
+      altText: "mexico flag",
+      description:
+        "The primary objective is to forecast Mexico's economic growth using available data from Banco de Mexico.",
+      projectLink:
+        "https://github.com/NilArj/Predicting-Mexico-s-Economic-Growth",
+      title: "PYTHON",
+      subtitle: "Predicting Mexico's Economic Growth",
+    },
   ];
 
   return (
