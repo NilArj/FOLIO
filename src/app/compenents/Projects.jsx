@@ -76,9 +76,9 @@ const Projects = () => {
       imageSrc: "images/drag.jpg",
       altText: "La mas draga logo",
       description:
-        "The problem in this project is creation of a model to predict the success of contestants in the show based on their performance and characteristics",
+        "The goal is to unveil the key factors shared by the top 4 contestants across all seasons of the show.",
       projectLink: "https://github.com/NilArj/drag_show",
-      title: "PYTHON",
+      title: "PYTHON | SQL",
       subtitle: "La Más Draga",
     },
     {
