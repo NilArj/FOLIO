@@ -28,16 +28,19 @@ const ProjectCard = ({
         <h2 className="text-yellow-primary text-center text-lg mb-4 sm:text-xl">
           {subtitle}
         </h2>
-        <p className="text-white-primary text-justify italic font-serif text-base mb-4 sm:text-xl">
+        <p className="text-white-primary text-justify italic text-base mb-4 sm:text-xl">
           {description}
         </p>
-        <Link
+
+        <a
           href={projectLink}
           passHref
+          target="_blank"
+          rel="noopener noreferrer"
           className="block mt-4 mx-auto text-[#F0F0F0] text-sm border border-solid border-[#FFCE63] px-5 py-3 w-full font-semibold sm:w-fit md:text-lg hover:bg-gradient-to-br hover:to-[#FFCE63] hover:from-[#0A133D]"
         >
           View
-        </Link>
+        </a>
       </div>
     </div>
   );
@@ -51,7 +54,7 @@ const Projects = () => {
       description:
         "Create a successful Android App. This project aims to answer critical questions to make informed decisions",
       projectLink: "https://github.com/NilArj/Google_play",
-      title: "SQL",
+      title: "SQL | Power BI",
       subtitle: "Google Play App Development Analysis",
     },
     {
@@ -62,15 +65,6 @@ const Projects = () => {
       projectLink: "https://github.com/NilArj/Amazon_sales",
       title: "EXCEL",
       subtitle: "Amazon RFM Analysis",
-    },
-    {
-      imageSrc: "images/pexels-kristina-paukshtite-1146760.jpg",
-      altText: "A plato pizza image",
-      description:
-        "Analyze a large dataset of pizza sales and extract meaningful insights to help the company make data-driven decisions",
-      projectLink: "https://github.com/NilArj/Pizza-Analysis",
-      title: "SQL | TABLEAU",
-      subtitle: "Maven's Pizza",
     },
     {
       imageSrc: "images/drag.jpg",

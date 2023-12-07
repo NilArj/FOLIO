@@ -13,13 +13,13 @@ const Contact = () => {
         <h1 className="font-extrabold text-center text-[#FFCE63] text-3xl sm:text-5xl lg:text-6xl">
           Contact
         </h1>
-        <p className="text-[#F0F0F0] text-justify italic font-serif text-base sm:text-xl">
+        <p className="text-[#F0F0F0] text-justify italic text-base sm:text-xl">
           {"I'm"} on the lookout for exciting opportunities, and {"I'm"} here
           for a chat. If {"you've"} got questions or just want to discuss
-          possibilities,
-          {"don't"} hesitate to reach out. {"I'm"} committed to swift responses!
+          possibilities, {"don't"} hesitate to reach out. {"I'm"} committed to
+          swift responses!
         </p>
-        <p className="text-white-primary text-justify italic font-serif text-base sm:text-xl md:text-center">
+        <p className="text-white-primary text-justify italic text-base sm:text-xl md:text-center">
           Thanks for taking the time to explore my portfolio. Your visit is
           greatly appreciated!
         </p>

@@ -35,7 +35,7 @@ const Hero = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[#F0F0F0] mb-6 italic font-serif text-base sm:text-xl md:text-2xl">
+          <p className="text-[#F0F0F0] mb-6 italic text-base sm:text-xl md:text-2xl">
             Turning data into stories: A passionate data explorer
           </p>
           <button

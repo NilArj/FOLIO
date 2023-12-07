@@ -2,12 +2,12 @@ import React from "react";
 import { RiFileExcel2Line } from "react-icons/ri";
 import { BiLogoGit } from "react-icons/bi";
 import { GrMysql } from "react-icons/gr";
-import { SiPython, SiTableau } from "react-icons/si";
+import { SiPython, SiTableau, SiPowerbi } from "react-icons/si";
 
 const TechItem = ({ label, children }) => (
   <div className="flex flex-col items-center text-center mb-4 text-3xl md:text-5xl lg:text-7xl">
     {children}
-    <p className="mt-4 text-base text-justify italic font-serif sm:text-lg text-[#F0F0F0]">
+    <p className="mt-4 text-base text-justify italic sm:text-lg text-[#F0F0F0]">
       {label}
     </p>
   </div>
@@ -31,8 +31,8 @@ const Skills = () => {
             <TechItem label="Python">
               <SiPython />
             </TechItem>
-            <TechItem label="Tableau">
-              <SiTableau />
+            <TechItem label="Power BI">
+              <SiPowerbi />
             </TechItem>
             <TechItem label="Git">
               <BiLogoGit />
