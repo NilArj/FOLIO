@@ -53,7 +53,7 @@ const Projects = () => {
       altText: "Google Play Logo",
       description:
         "Create a successful Android App. This project aims to answer critical questions to make informed decisions",
-      projectLink: "https://github.com/NilArj/Google_play",
+      projectLink: "https://nilarj.github.io/projectspage/#a",
       title: "SQL | Power BI",
       subtitle: "Google Play App Development Analysis",
     },
@@ -62,7 +62,7 @@ const Projects = () => {
       altText: "Amazon Logo",
       description:
         "The primary problem was to identify and understand customer behavior and segment customers effectively for more targeted marketing strategies",
-      projectLink: "https://github.com/NilArj/Amazon_sales",
+      projectLink: "https://nilarj.github.io/projectspage/#b",
       title: "EXCEL",
       subtitle: "Amazon RFM Analysis",
     },
@@ -71,7 +71,7 @@ const Projects = () => {
       altText: "La mas draga logo",
       description:
         "The goal is to unveil the key factors shared by the top 4 contestants across all seasons of the show.",
-      projectLink: "https://github.com/NilArj/drag_show",
+      projectLink: "https://nilarj.github.io/projectspage/#c",
       title: "PYTHON | SQL",
       subtitle: "La Más Draga",
     },
@@ -80,8 +80,7 @@ const Projects = () => {
       altText: "mexico flag",
       description:
         "The primary objective is to forecast Mexico's economic growth using available data from Banco de Mexico.",
-      projectLink:
-        "https://github.com/NilArj/Predicting-Mexico-s-Economic-Growth",
+      projectLink: "https://nilarj.github.io/projectspage/#d",
       title: "PYTHON",
       subtitle: "Predicting Mexico's Economic Growth",
     },
